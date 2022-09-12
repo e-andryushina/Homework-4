@@ -42,7 +42,7 @@ public class Main {
             System.out.println("Сидячих мест нет!");
         }
         if (standUsed == standAmount) {
-            System.out.println("Стоячих мест нет! ");
+            System.out.println("Стоячих мест нет!");
         }
 
     }
